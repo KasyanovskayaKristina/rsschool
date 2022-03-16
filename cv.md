@@ -48,11 +48,6 @@
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 - Html&CSS
 
-## Languages :
-
-- Russian - Native
-- English - Intermediate
-
 ## Code example:
 
 ```
@@ -60,3 +55,8 @@ function multiply(a, b){
     return a * b
 }
 ```
+
+## Languages :
+
+- Russian - Native
+- English - Intermediate
